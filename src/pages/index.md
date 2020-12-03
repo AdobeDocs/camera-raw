@@ -43,7 +43,7 @@ Create only once and use across multiple Creative Cloud applications like Photos
 
 <TextBlock slots="image, heading, text" width="100%" theme="dark" isCentered />
 
-![Feature 4](images/Smock_FileJson_18_N.svg)
+![Feature 4](images/S_IlluGenerateImageAssets_96.svg)
 
 ### Create Inside Camera Raw
 
@@ -52,7 +52,7 @@ Create directly from inside the Camera Raw interface.
 
 <TextBlock slots="image, heading, text" width="100%" theme="dark" isCentered />
 
-![Feature 5](images/Smock_FileShare_18_N.svg)
+![Feature 5](images/S_IlluEffectsAndTransitions_96.svg)
 
 ### Creative Effects with LUTs
 
@@ -61,7 +61,7 @@ Incorporate 3D LUTs into your Camera Raw and Lightroom profiles to product uniqu
 
 <TextBlock slots="image, heading, text" width="100%" theme="dark" isCentered />
 
-![Feature 6](images/Smock_FileWorkflow_18_N.svg)
+![Feature 6](images/S_IlluCustomizeExport_96.svg)
 
 ### Create for Multiple Products
 
@@ -69,7 +69,7 @@ Presets and Profiles created in Camera Raw can also be used in Lightroom and Pho
 
 <TextBlock slots="image, heading, text" width="100%" theme="dark" isCentered />
 
-![Feature 6](images/Smock_MagicWand_18_N.svg)
+![Feature 6](images/S_IlluIntegrateOtherApps_96.svg)
 
 ### Easy to Get Started
 
