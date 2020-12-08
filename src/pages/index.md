@@ -17,7 +17,7 @@ Adobe Camera Raw (ACR) is the raw imaging engine that powers the Camera Raw plug
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Feature 1](images/Smock_AssetCheck_18_N.svg)
+![alt text](images/1540238514270.old.acr1.jpg)
 
 ### Build Profiles
 
@@ -26,7 +26,7 @@ Learn how to incorporate 3D LUTs to create unique profiles for use in Photoshop,
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Feature 2](images/Smock_Code_18_N.svg)
+![alt text](images/1540238434848.old.acr2.jpg)
 
 ### Create Spectacular Effects
 
@@ -35,7 +35,7 @@ Create custom profiles to control light, shadow and contrast without losing visu
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Feature 3](images/Smock_FileHTML_18_N.svg)
+![alt text](images/1540238584845.old.acr3.jpg)
 
 ### Create Once
 
