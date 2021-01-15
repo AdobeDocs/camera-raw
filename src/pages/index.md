@@ -41,22 +41,6 @@ Create custom profiles to control light, shadow and contrast without losing visu
 
 Create only once and use across multiple Creative Cloud applications like Photoshop and Lightroom.
 
-<TextBlock slots="image, heading, text" width="50%" theme="dark" isCentered />
-
-![Multi-photo icon](images/S_IlluGenerateImageAssets_96.svg)
-
-### Create Inside Camera Raw
-
-Create directly from inside the Camera Raw interface.
-
-
-<TextBlock slots="image, heading, text" width="50%" theme="dark" isCentered />
-
-![Linked boxes icon](images/S_IlluIntegrateOtherApps_96.svg)
-
-### Easy to Get Started
-
-Easy to start, incredibly powerful.
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
