@@ -42,7 +42,7 @@ Create custom profiles to control light, shadow and contrast without losing visu
 Create only once and use across multiple Creative Cloud applications like Photoshop and Lightroom.
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
