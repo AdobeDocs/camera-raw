@@ -20,5 +20,5 @@ module.exports = {
     ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/camera-raw'
+  pathPrefix: process.env.PATH_PREFIX || '/camera-raw/'
 };
