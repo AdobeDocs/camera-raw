@@ -5,7 +5,7 @@ description: This is the home page of Adobe Camera Raw APIs
  
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
 #  The Adobe Camera Raw SDK
 
@@ -44,7 +44,7 @@ Create only once and use across multiple Creative Cloud applications like Photos
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
