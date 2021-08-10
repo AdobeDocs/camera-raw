@@ -1,4 +1,7 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
 title: Creative Cloud - Adobe Camera Raw
 description: This is the home page of Adobe Camera Raw APIs 
 ---
